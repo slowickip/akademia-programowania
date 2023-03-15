@@ -40,14 +40,14 @@ func AttendancePercentage(attendance []bool) float64 {
 		return 0
 	}
 
-	var attendanceSum int
+	var attendanceSum float64
 	for _, value := range attendance {
 		if value {
 			attendanceSum++
 
 		}
 	}
-	attendancePercentage := float64(attendanceSum) / float64(len(attendance))
+	attendancePercentage := attendanceSum / float64(len(attendance))
 
 	return math.Round(attendancePercentage*1000) / 1000
 }
