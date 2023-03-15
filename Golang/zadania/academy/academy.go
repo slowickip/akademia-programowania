@@ -20,12 +20,12 @@ func AverageGrade(grades []int) int {
 	}
 
 	sum := 0
-	ctr := 0
-	for range grades {
-		sum += grades[ctr]
-		ctr++
+	for _, value := range grades {
+		sum += value
 	}
-	return int(math.Round(float64(sum) / float64(ctr)))
+	avg := float64(sum) / float64(len(grades))
+
+	return (int)(math.Round(avg))
 }
 
 // AttendancePercentage returns a percentage of class
@@ -47,7 +47,9 @@ func AttendancePercentage(attendance []bool) float64 {
 
 		}
 	}
-	return math.Round(float64(attendanceSum)/float64(len(attendance))*1000) / 1000
+	attendancePercentage := float64(attendanceSum) / float64(len(attendance))
+
+	return math.Round(attendancePercentage*1000) / 1000
 }
 
 // FinalGrade returns a final grade achieved by a student,
