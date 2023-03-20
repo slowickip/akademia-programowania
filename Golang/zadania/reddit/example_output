@@ -1,0 +1,52 @@
+Who's Hiring? - March 2023
+https://www.reddit.com/r/golang/comments/11fijrn/whos_hiring_march_2023/
+Boolean Satisfiability (SAT) Solver In 68 Lines of Go
+https://bugfix-66.com/2f602f539132503ff9e7370399da6bb5e360c18f768bcf5def8d380b355f1395
+Synchronization Patterns in Go
+https://code-pilot.me/synchronization-patterns-in-go
+Does using HTML template inheritance lead to copying the same base template in memory? How can this be improved?
+https://www.reddit.com/r/golang/comments/11vo3jr/does_using_html_template_inheritance_lead_to/
+Built a recycling bin
+https://www.reddit.com/r/golang/comments/11ve6j0/built_a_recycling_bin/
+Why use internal package and main package in the same module?
+https://www.reddit.com/r/golang/comments/11vtjup/why_use_internal_package_and_main_package_in_the/
+Part 3 - service layer and testing
+https://www.reddit.com/r/golang/comments/11vjm2c/part_3_service_layer_and_testing/
+Go library that supports extraction and generation of word documents with complex formulae, equations, tables and images.
+https://www.reddit.com/r/golang/comments/11vmhlq/go_library_that_supports_extraction_and/
+A good source to learn structs and methods?
+https://www.reddit.com/r/golang/comments/11vsl99/a_good_source_to_learn_structs_and_methods/
+Idiomatic patterns you discovered in your work with Go
+https://www.reddit.com/r/golang/comments/11uvbq4/idiomatic_patterns_you_discovered_in_your_work/
+Cool networking projects in golang
+https://www.reddit.com/r/golang/comments/11uycss/cool_networking_projects_in_golang/
+Good REST api structure of go gin project?
+https://www.reddit.com/r/golang/comments/11vkr1d/good_rest_api_structure_of_go_gin_project/
+Help with Go101 example
+https://www.reddit.com/r/golang/comments/11vpazc/help_with_go101_example/
+How can I select a random constant from a block of constants?
+https://www.reddit.com/r/golang/comments/11vitiv/how_can_i_select_a_random_constant_from_a_block/
+Noob code, anyone up for review?
+https://www.reddit.com/r/golang/comments/11veisc/noob_code_anyone_up_for_review/
+Open source go package to explore
+https://www.reddit.com/r/golang/comments/11vfxk6/open_source_go_package_to_explore/
+How to write to file in Android
+https://www.reddit.com/r/golang/comments/11vekbw/how_to_write_to_file_in_android/
+Find First and Last Position of Element in Sorted Array
+https://www.youtube.com/watch?v=mow1dmXvMbk
+Surf CLI - Multiple AWS Accounts support! (Text search DynamoDB, S3 and more)
+https://www.reddit.com/r/golang/comments/11vdnra/surf_cli_multiple_aws_accounts_support_text/
+Need help understanding how importing a local package works in golang
+https://www.reddit.com/r/golang/comments/11vdftx/need_help_understanding_how_importing_a_local/
+How to implement end-to-end encryption in a Go web socket app?
+https://www.reddit.com/r/golang/comments/11ui9y5/how_to_implement_endtoend_encryption_in_a_go_web/
+Problem with a custom redis client
+https://www.reddit.com/r/golang/comments/11v1ucn/problem_with_a_custom_redis_client/
+Created a simple router
+https://www.reddit.com/r/golang/comments/11v0wia/created_a_simple_router/
+Web Crawler in Go: Extracting Keyword-Relevant Text with Text Density
+https://www.reddit.com/r/golang/comments/11urg55/web_crawler_in_go_extracting_keywordrelevant_text/
+Which platform/os do you prefer to use while using Go for developing your services, apps, CLIs, etc ?
+https://www.reddit.com/r/golang/comments/11v93a0/which_platformos_do_you_prefer_to_use_while_using/
+VSCode intellisense doesn't seem to work with go modules?
+https://www.reddit.com/r/golang/comments/11uyo1o/vscode_intellisense_doesnt_seem_to_work_with_go/
