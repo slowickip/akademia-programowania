@@ -1,0 +1,4 @@
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/grupawp/appdispatcher v0.0.0-20230317130539-71007fe48bf5 h1:LGcwJWQ+zjYYFlsJkKkoeTDM+Wki29zws4CLEHYG2m8=
+github.com/grupawp/appdispatcher v0.0.0-20230317130539-71007fe48bf5/go.mod h1:ciyeBpcpMEJHsTwlZLwnZoV1xcRHxtYAcdt+mvi6FIY=
