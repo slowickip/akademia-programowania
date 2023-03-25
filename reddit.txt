@@ -1,0 +1,52 @@
+Who's Hiring? - March 2023
+https://www.reddit.com/r/golang/comments/11fijrn/whos_hiring_march_2023/
+Image digest of Go 1.19.7 changed?
+https://www.reddit.com/r/golang/comments/121jxa5/image_digest_of_go_1197_changed/
+How to unit test your database interactions with Docker
+https://www.reddit.com/r/golang/comments/1219jri/how_to_unit_test_your_database_interactions_with/
+Handling auth tokens with a SPA frontend
+https://www.reddit.com/r/golang/comments/121iija/handling_auth_tokens_with_a_spa_frontend/
+Connecting to https server with SSL cert
+https://www.reddit.com/r/golang/comments/121d60c/connecting_to_https_server_with_ssl_cert/
+GitHub - go-aie/gptbot: Question Answering Bot powered by OpenAI GPT models.
+https://github.com/go-aie/gptbot
+I think I'm going crazy refactoring my web app
+https://www.reddit.com/r/golang/comments/121ln4t/i_think_im_going_crazy_refactoring_my_web_app/
+Concurrency in Go - A deeper look into Go's runtime scheduler
+https://www.reddit.com/r/golang/comments/120q1rr/concurrency_in_go_a_deeper_look_into_gos_runtime/
+Ultimate config for Go applications
+https://benchkram.de/blog/dev/ultimate-config-for-golang-apps
+Question about context propagation through the network - Go beginner
+https://www.reddit.com/r/golang/comments/121b3n8/question_about_context_propagation_through_the/
+Long form Vs Short form videos
+https://www.reddit.com/r/golang/comments/121gqvf/long_form_vs_short_form_videos/
+Good patterns for preventing implementation detail leakage through wrapped errors?
+https://www.reddit.com/r/golang/comments/120uw2u/good_patterns_for_preventing_implementation/
+Detect @RD /q /s
+https://www.reddit.com/r/golang/comments/121jvs3/detect_rd_q_s/
+I like Go so far...but...
+https://www.reddit.com/r/golang/comments/120uuak/i_like_go_so_farbut/
+Reddit Post Exporter — my first serious project
+https://www.reddit.com/r/golang/comments/120msz1/reddit_post_exporter_my_first_serious_project/
+GoCrest v1.0.8 released
+https://www.reddit.com/r/golang/comments/120s4ln/gocrest_v108_released/
+What is your opinion about "argument structs"?
+https://www.reddit.com/r/golang/comments/120fh2n/what_is_your_opinion_about_argument_structs/
+My first Golang project )
+https://www.reddit.com/r/golang/comments/121enky/my_first_golang_project/
+Reason I like Go
+https://www.reddit.com/r/golang/comments/120274o/reason_i_like_go/
+Nifty pattern for having a struct with default behavior but allow it to be overriden
+https://github.com/kubernetes-sigs/controller-runtime/blob/main/pkg/predicate/predicate.go#L55-L100
+Planning Go 1.21 Cryptography Work
+https://words.filippo.io/dispatches/go-1-21-plan/
+Does go have a better way to handle x.a, x.b, x.c, etc..
+https://www.reddit.com/r/golang/comments/120slqu/does_go_have_a_better_way_to_handle_xa_xb_xc_etc/
+Vendored dependencies in libraries
+https://www.reddit.com/r/golang/comments/12041d3/vendored_dependencies_in_libraries/
+Golang seems overwhelming, any tips
+https://www.reddit.com/r/golang/comments/1214myf/golang_seems_overwhelming_any_tips/
+cariddi v1.3.1 is out🥳
+https://www.reddit.com/r/golang/comments/11zv0xz/cariddi_v131_is_out/
+PASETO authentication, auth middleware - and testing them! Part 5 of ON is ready!
+https://www.reddit.com/r/golang/comments/120dwi2/paseto_authentication_auth_middleware_and_testing/
