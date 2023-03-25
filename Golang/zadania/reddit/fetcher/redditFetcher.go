@@ -25,7 +25,7 @@ type RedditFetcher interface {
 }
 
 type RedditFetcherImpl struct {
-	redditResponse Response
+	RedditResponse Response
 }
 
 func (r *RedditFetcherImpl) Fetch() error {
@@ -53,16 +53,15 @@ func (r *RedditFetcherImpl) Fetch() error {
 		return err
 	}
 
-	err = json.Unmarshal(resBody, &r.redditResponse)
+	err = json.Unmarshal(resBody, &r.RedditResponse)
 	if err != nil {
 		return err
 	}
-
 	return nil
 }
 
 func (r *RedditFetcherImpl) Save(w io.Writer) error {
-	for _, child := range r.redditResponse.Data.Children {
+	for _, child := range r.RedditResponse.Data.Children {
 		title := []byte(child.Data.Title + "\n")
 		url := []byte(child.Data.URL + "\n")
 		_, err := w.Write(title)
