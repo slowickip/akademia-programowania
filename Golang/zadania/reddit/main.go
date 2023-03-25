@@ -1,9 +1,14 @@
 package main
 
 import (
-	"fmt"
+	"io"
+	"reddit/fetcher"
 )
 
 func main() {
-	fmt.Println("hello r/golang!")
+	var f fetcher.RedditFetcher // do not change
+	var w io.Writer             // do not change
+
+	f.Fetch()
+	f.Save(w)
 }
