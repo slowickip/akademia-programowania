@@ -1,25 +1,14 @@
 package main
 
 import (
-	"log"
-	"os"
+	"io"
 	"reddit/fetcher"
 )
 
 func main() {
-	r := &fetcher.RedditFetcherImpl{}
-	err := r.Fetch()
-	if err != nil {
-		log.Println(err)
-		os.Exit(1)
-	}
+	var f fetcher.RedditFetcher // do not change
+	var w io.Writer             // do not change
 
-	file, err := os.Create("reddit.txt")
-	err = r.Save(file)
-	//err = r.Save(os.Stdout)
-	if err != nil {
-		log.Println(err)
-		os.Exit(1)
-	}
-
+	f.Fetch()
+	f.Save(w)
 }
