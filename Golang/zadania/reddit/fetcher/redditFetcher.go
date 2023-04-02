@@ -41,6 +41,12 @@ func (r *RedditFetcherImpl) Fetch() error {
 		return err
 	}
 
+	defer func(Body io.ReadCloser) {
+		err := Body.Close()
+		if err != nil {
+		}
+	}(res.Body)
+
 	log.Printf("client: got response!")
 	log.Printf("client: status code: %d\n", res.StatusCode)
 

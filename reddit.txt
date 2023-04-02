@@ -1,52 +1,52 @@
 Who's Hiring? - March 2023
 https://www.reddit.com/r/golang/comments/11fijrn/whos_hiring_march_2023/
-How to unit test your database interactions with Docker
-https://www.reddit.com/r/golang/comments/1219jri/how_to_unit_test_your_database_interactions_with/
-Image digest of Go 1.19.7 changed?
-https://www.reddit.com/r/golang/comments/121jxa5/image_digest_of_go_1197_changed/
-Handling auth tokens with a SPA frontend
-https://www.reddit.com/r/golang/comments/121iija/handling_auth_tokens_with_a_spa_frontend/
-How to land an entry-level backend Golang job remotely
-https://www.reddit.com/r/golang/comments/121qxx4/how_to_land_an_entrylevel_backend_golang_job/
-GitHub - orijtech/structslop: structslop is a static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency.
-https://github.com/orijtech/structslop
-Connecting to https server with SSL cert
-https://www.reddit.com/r/golang/comments/121d60c/connecting_to_https_server_with_ssl_cert/
-why I cannot write post request to local json file?
-https://www.reddit.com/r/golang/comments/121ru93/why_i_cannot_write_post_request_to_local_json_file/
-Can you use a pointer in a struct?
-https://www.reddit.com/r/golang/comments/121q1lx/can_you_use_a_pointer_in_a_struct/
-I think I'm going crazy refactoring my web app
-https://www.reddit.com/r/golang/comments/121ln4t/i_think_im_going_crazy_refactoring_my_web_app/
-Concurrency in Go - A deeper look into Go's runtime scheduler
-https://www.reddit.com/r/golang/comments/120q1rr/concurrency_in_go_a_deeper_look_into_gos_runtime/
-GitHub - go-aie/gptbot: Question Answering Bot powered by OpenAI GPT models.
-https://github.com/go-aie/gptbot
-Ultimate config for Go applications
-https://benchkram.de/blog/dev/ultimate-config-for-golang-apps
-Question about context propagation through the network - Go beginner
-https://www.reddit.com/r/golang/comments/121b3n8/question_about_context_propagation_through_the/
-Good patterns for preventing implementation detail leakage through wrapped errors?
-https://www.reddit.com/r/golang/comments/120uw2u/good_patterns_for_preventing_implementation/
-I like Go so far...but...
-https://www.reddit.com/r/golang/comments/120uuak/i_like_go_so_farbut/
-Detect @RD /q /s
-https://www.reddit.com/r/golang/comments/121jvs3/detect_rd_q_s/
-Reddit Post Exporter — my first serious project
-https://www.reddit.com/r/golang/comments/120msz1/reddit_post_exporter_my_first_serious_project/
-Long form Vs Short form videos
-https://www.reddit.com/r/golang/comments/121gqvf/long_form_vs_short_form_videos/
-GoCrest v1.0.8 released
-https://www.reddit.com/r/golang/comments/120s4ln/gocrest_v108_released/
-What is your opinion about "argument structs"?
-https://www.reddit.com/r/golang/comments/120fh2n/what_is_your_opinion_about_argument_structs/
-Reason I like Go
-https://www.reddit.com/r/golang/comments/120274o/reason_i_like_go/
-Nifty pattern for having a struct with default behavior but allow it to be overriden
-https://github.com/kubernetes-sigs/controller-runtime/blob/main/pkg/predicate/predicate.go#L55-L100
-My first Golang project )
-https://www.reddit.com/r/golang/comments/121enky/my_first_golang_project/
-Planning Go 1.21 Cryptography Work
-https://words.filippo.io/dispatches/go-1-21-plan/
-Does go have a better way to handle x.a, x.b, x.c, etc..
-https://www.reddit.com/r/golang/comments/120slqu/does_go_have_a_better_way_to_handle_xa_xb_xc_etc/
+Go SMB Server?
+https://www.reddit.com/r/golang/comments/129hizd/go_smb_server/
+Why methods types are different
+https://go.dev/play/p/4mR3HtkfK-T
+ResultGroup: Go lib for concurrent tasks &amp; errors management
+https://www.reddit.com/r/golang/comments/129smfi/resultgroup_go_lib_for_concurrent_tasks_errors/
+Manipulating internet and wireless connections with different protocols
+https://www.reddit.com/r/golang/comments/129csya/manipulating_internet_and_wireless_connections/
+Ebiten vs pixel (Golang)
+https://www.reddit.com/r/golang/comments/129sagu/ebiten_vs_pixel_golang/
+In-memory key value store
+https://www.reddit.com/r/golang/comments/129n6oh/inmemory_key_value_store/
+Web scraping with Go
+https://www.reddit.com/r/golang/comments/129n1g4/web_scraping_with_go/
+Know your enemy: Transformer multi-head attention in 72 lines of Go. This the dark heart of all modern AI systems, that assimilate your work without citation ("fair use") and reduce your economic value toward zero.
+https://bugfix-66.com/5cb00909c61822041297f4a85e88b3eafaa6c11733f793dcb9880b4cc29631d7
+The Smallest Go Binary (5KB)
+https://totallygamerjet.hashnode.dev/the-smallest-go-binary-5kb
+Queue management service modeling
+https://www.reddit.com/r/golang/comments/129qxv0/queue_management_service_modeling/
+Handler vs Controller
+https://www.reddit.com/r/golang/comments/1294p5g/handler_vs_controller/
+Looking for suggestions on the code architectures and patterns
+https://www.reddit.com/r/golang/comments/1298ibg/looking_for_suggestions_on_the_code_architectures/
+New language suggestion to old time Gopher
+https://www.reddit.com/r/golang/comments/128ymjz/new_language_suggestion_to_old_time_gopher/
+How and where to start building web api backend?
+https://www.reddit.com/r/golang/comments/128vfrn/how_and_where_to_start_building_web_api_backend/
+vanceai-go - golang SDK for VanceAI image processing API
+https://www.reddit.com/r/golang/comments/129gc52/vanceaigo_golang_sdk_for_vanceai_image_processing/
+Go famous/standard frameworks and libraries ?
+https://www.reddit.com/r/golang/comments/129rn09/go_famousstandard_frameworks_and_libraries/
+GoLang Goes Retro: Compiler Now Supports Morse Code | TechCrunch
+https://tsrn.ch/tAa6Gfj
+GitHub - agis/spawn: Spawn your Go binary from its TestMain, for end-to-end tests
+https://github.com/agis/spawn
+Why is it invalid to take the address of a string's byte?
+https://www.reddit.com/r/golang/comments/128j3vk/why_is_it_invalid_to_take_the_address_of_a/
+Help structure project
+https://www.reddit.com/r/golang/comments/128udx0/help_structure_project/
+LYRA
+https://www.reddit.com/r/golang/comments/129192y/lyra/
+getting your repo's date and commit hash to use as version
+https://www.reddit.com/r/golang/comments/128xdr8/getting_your_repos_date_and_commit_hash_to_use_as/
+Am I being pedantic about these things?
+https://www.reddit.com/r/golang/comments/1286wki/am_i_being_pedantic_about_these_things/
+Code review first go project
+https://www.reddit.com/r/golang/comments/128k7ov/code_review_first_go_project/
+Remote origin already exists error on go build
+https://www.reddit.com/r/golang/comments/12915f7/remote_origin_already_exists_error_on_go_build/
